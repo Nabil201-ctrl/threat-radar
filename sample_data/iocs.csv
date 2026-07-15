@@ -1,0 +1,8 @@
+type,value,severity,source,tags
+ip,203.0.113.44,high,manual-lab,bruteforce;ssh
+ip,45.33.32.156,high,manual-lab,bruteforce;spray
+ip,185.22.3.4,medium,osint-demo,credential-stuffing
+domain,evil-update-paypal.tk,high,phish-kit,phishing
+domain,secure-login-portal.xyz,medium,phish-kit,phishing
+hash,e3b0c44298fc1c149afbf4c8996fb924,low,test,empty-file-sha256-prefix
+url,http://203.0.113.50/paypal/login,high,phish-kit,phishing
